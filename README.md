@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/114678399/228957451-0e20952e-d89a-4515-83cb-5fdea1c07b3f.png" alt="banner">
+<img src="https://user-images.githubusercontent.com/114678399/228972961-b6eb4e9b-d027-4082-94a9-d71d17442c24.png" alt="banner">
 
 
 ### Hi there 👋 My name is Vladimir. Welcome to my github profile!
