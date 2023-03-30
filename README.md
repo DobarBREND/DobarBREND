@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/114678399/228939572-eadb8082-8df7-4960-8c77-e32269df6923.png" alt="banner">
-<br><br>
+<img src="https://user-images.githubusercontent.com/114678399/228957451-0e20952e-d89a-4515-83cb-5fdea1c07b3f.png" alt="banner">
+
 
 ### Hi there 👋 My name is Vladimir. Welcome to my github profile!
 - 🔭 I’m currently working on my personal porfolio website
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 https://user-images.githubusercontent.com/114678399/228936520-32bca65f-90c4-4276-ba68-d9a17b2f6c95.mp4
 
