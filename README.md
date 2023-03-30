@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on front-end projects
 
 <br>
-<h3>1. Find me all around the Web</h3>
+<h3>1. Connect with me</h3>
 <div display="inline">
 <img src="https://user-images.githubusercontent.com/114678399/228941213-dc816222-125a-40c8-aab9-f19dbd4d8a5b.png" alt="LinkedIn" width="30px">
 <img src="https://user-images.githubusercontent.com/114678399/228942194-94e5f20a-06d6-4e8f-9dae-1cd30668a169.png" alt="LinkedIn" width="30px">
@@ -20,7 +20,19 @@
  
  
 <h3>3. Most used languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DobarBREND&layout=compact" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DobarBREND&layout=compact&theme=dark" width="400">
+
+<h3>4. Total contribution</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DobarBREND&theme=dark">
+
+<h3>5. GitHub repository</h3>
+<div display="flex">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobarBREND&repo=wow-shopping&theme=dark">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobarBREND&repo=e-commerce-website&theme=dark" height="140">
+</div>
+
+
+
  
 <!--
 **DobarBREND/DobarBREND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +47,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@DobarBREND)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/DobarBREND/)
 https://user-images.githubusercontent.com/114678399/228936520-32bca65f-90c4-4276-ba68-d9a17b2f6c95.mp4
 -->
 
