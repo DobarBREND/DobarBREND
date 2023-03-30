@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/114678399/228939572-eadb8082-8df7-4960-8c77-e32269df6923.png" alt="banner">
+
+
 ### Hi there 👋 My name is Vladimir. Welcome to my github profile!
 - 🔭 I’m currently working on my personal porfolio website
 - 🌱 I’m currently learning about relational databases
