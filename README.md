@@ -2,8 +2,8 @@
 
 
 ### Hi there 👋 My name is Vladimir. Welcome to my github profile!
-- 🔭 I’m currently working on my personal porfolio website
-- 🌱 I’m currently learning about relational databases
+- 🔭 I’m currently working on a new responsive e-commerce website
+- 🌱 I’m currently learning about relational databases - Bash scripting, SQL, PostgreSQL, Git etc.
 - 👯 I’m looking to collaborate on front-end projects
 
 <br>
