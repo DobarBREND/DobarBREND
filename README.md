@@ -7,13 +7,23 @@
 - 👯 I’m looking to collaborate on front-end projects
 
 <br>
+<div display="inline">
+     <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="300px" alt="Coding">
+ 
+  <p>Get ready to build your dream website from scratch! Every week I will publish a new website template which can serve as a practical lesson on front-end web development. You'll learn how to use HTML, CSS, and JavaScript to create visually stunning and interactive websites, with an accent on e-Commerce websites. With hands-on examples and included guidance, you will be able to turn your ideas into a reality. Everyone who likes the process of learning by doing is welcome. Of course, I will be a learner too on that path of acquiring new practical skills. Together, we can become the better front-end developers!</p>
+ 
+ </div>
+
+<br>
 <h3>1. Connect with me</h3>
 <div display="inline">
-<img src="https://user-images.githubusercontent.com/114678399/228941213-dc816222-125a-40c8-aab9-f19dbd4d8a5b.png" alt="LinkedIn" width="30px">
-<img src="https://user-images.githubusercontent.com/114678399/228942194-94e5f20a-06d6-4e8f-9dae-1cd30668a169.png" alt="LinkedIn" width="30px">
-<img src="https://user-images.githubusercontent.com/114678399/228959286-50e0c075-2d49-4536-ba84-0a0509fa4b29.png" alt="YouTube" width="30px">
+  <img src="https://user-images.githubusercontent.com/114678399/228941213-dc816222-125a-40c8-aab9-f19dbd4d8a5b.png" alt="LinkedIn" width="30px">
+  <img src="https://user-images.githubusercontent.com/114678399/228942194-94e5f20a-06d6-4e8f-9dae-1cd30668a169.png" alt="LinkedIn" width="30px">
+  <img src="https://user-images.githubusercontent.com/114678399/228959286-50e0c075-2d49-4536-ba84-0a0509fa4b29.png" alt="YouTube" width="30px">
 </div>
-
+<div>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Gif">
+</div>
 
 <h3>2. GitHub stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=DobarBREND&show_icons=true&theme=dark" width="400">
