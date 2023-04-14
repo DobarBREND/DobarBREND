@@ -17,8 +17,8 @@
 <br>
 <h3>1. Connect with me</h3>
 <div display="inline">
-  <img src="https://user-images.githubusercontent.com/114678399/228941213-dc816222-125a-40c8-aab9-f19dbd4d8a5b.png" alt="LinkedIn" width="30px">
-  <img src="https://user-images.githubusercontent.com/114678399/228942194-94e5f20a-06d6-4e8f-9dae-1cd30668a169.png" alt="LinkedIn" width="30px">
+  <a href="https://www.linkedin.com/in/dobarbrend/" target="_blank"><img src="https://user-images.githubusercontent.com/114678399/228941213-dc816222-125a-40c8-aab9-f19dbd4d8a5b.png" alt="LinkedIn" width="30px"></a>
+  <a href="https://twitter.com/DobarBREND" target="_blank"><img src="https://user-images.githubusercontent.com/114678399/228942194-94e5f20a-06d6-4e8f-9dae-1cd30668a169.png" alt="LinkedIn" width="30px"></a>
   <a href="https://www.youtube.com/@DobarBREND" target="_blank"><img src="https://user-images.githubusercontent.com/114678399/228959286-50e0c075-2d49-4536-ba84-0a0509fa4b29.png" alt="YouTube" width="30px"></a>
 </div>
 <div>
