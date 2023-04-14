@@ -41,7 +41,8 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobarBREND&repo=e-commerce-website&theme=dark" height="140">
 </div>
 
-<br><br><br><br>
+<br><br>
+<h3>6. WELCOME video</h3>
 <video src="https://user-images.githubusercontent.com/114678399/228936520-32bca65f-90c4-4276-ba68-d9a17b2f6c95.mp4" width="50%"></video>
 
      
