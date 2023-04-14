@@ -8,7 +8,7 @@
 
 <br>
 <div display="inline">
-     <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="300px" alt="Coding">
+     <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="300px" alt="Coding"> 
  
   <p>Get ready to build your dream website from scratch! Every week I will publish a new website template which can serve as a practical lesson on front-end web development. You'll learn how to use HTML, CSS, and JavaScript to create visually stunning and interactive websites, with an accent on e-Commerce websites. With hands-on examples and included guidance, you will be able to turn your ideas into a reality. Everyone who likes the process of learning by doing is welcome. Of course, I will be a learner too on that path of acquiring new practical skills. Together, we can become the better front-end developers!</p>
  
@@ -41,6 +41,12 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobarBREND&repo=e-commerce-website&theme=dark" height="140">
 </div>
 
+<br><br><br><br>
+<video src="https://user-images.githubusercontent.com/114678399/228936520-32bca65f-90c4-4276-ba68-d9a17b2f6c95.mp4" width="50%"></video>
+
+     
+     
+     
 
 
  
@@ -59,7 +65,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@DobarBREND)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/DobarBREND/)
-https://user-images.githubusercontent.com/114678399/228936520-32bca65f-90c4-4276-ba68-d9a17b2f6c95.mp4
 -->
 
 
