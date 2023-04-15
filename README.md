@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/114678399/228972961-b6eb4e9b-d027-4082-94a9-d71d17442c24.png" alt="banner">
 
 
-### Hi there 👋 My name is Vladimir. Welcome to my github profile!
+:sparkles: Hi there 👋 My name is Vladimir. Welcome to my github profile! :sparkles:
 - 🔭 I’m currently working on a new responsive e-commerce website
 - 🌱 I’m currently learning about relational databases - Bash scripting, SQL, PostgreSQL, Git etc.
 - 👯 I’m looking to collaborate on front-end projects
@@ -10,12 +10,12 @@
 <div display="inline">
      <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="300px" alt="Coding"> 
  
-  <p>Get ready to build your dream website from scratch! Every week I will publish a new website template which can serve as a practical lesson on front-end web development. You'll learn how to use HTML, CSS, and JavaScript to create visually stunning and interactive websites, with an accent on e-Commerce websites. With hands-on examples and included guidance, you will be able to turn your ideas into a reality. Everyone who likes the process of learning by doing is welcome. Of course, I will be a learner too on that path of acquiring new practical skills. Together, we can become the better front-end developers!</p>
+  <p>:bell: Get ready to build your dream website from scratch! Every week I will publish a new website template which can serve as a practical lesson on front-end web development. You'll learn how to use HTML, CSS, and JavaScript to create visually stunning and interactive websites, with an accent on e-Commerce websites. With hands-on examples and included guidance, you will be able to turn your ideas into a reality. Everyone who likes the process of learning by doing is welcome. Of course, I will be a learner too on that path of acquiring new practical skills. Together, we can become the better front-end developers!</p>
  
  </div>
 
 <br>
-<h3>1. Connect with me</h3>
+<h3>:one: Connect with me :sparkles:</h3>
 <div display="inline">
   <a href="https://www.linkedin.com/in/dobarbrend/" target="_blank"><img src="https://user-images.githubusercontent.com/114678399/228941213-dc816222-125a-40c8-aab9-f19dbd4d8a5b.png" alt="LinkedIn" width="30px"></a>
   <a href="https://twitter.com/DobarBREND" target="_blank"><img src="https://user-images.githubusercontent.com/114678399/228942194-94e5f20a-06d6-4e8f-9dae-1cd30668a169.png" alt="LinkedIn" width="30px"></a>
@@ -25,24 +25,24 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Gif">
 </div>
 
-<h3>2. GitHub stats</h3>
+<h3>:two: GitHub stats :sparkles:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=DobarBREND&show_icons=true&theme=dark" width="400">
  
  
-<h3>3. Most used languages</h3>
+<h3>:three: Most used languages :sparkles:</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DobarBREND&layout=compact&theme=dark" width="400">
 
-<h3>4. Total contribution</h3>
+<h3>:four: Total contribution :sparkles:</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DobarBREND&theme=dark">
 
-<h3>5. GitHub repository</h3>
+<h3>:five: GitHub repository :sparkles:</h3>
 <div display="flex">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobarBREND&repo=wow-shopping&theme=dark">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobarBREND&repo=e-commerce-website&theme=dark" height="140">
 </div>
 
 <br><br>
-<h3>6. WELCOME video</h3>
+<h3>:six: WELCOME video :sparkles:</h3>
 <video src="https://user-images.githubusercontent.com/114678399/228936520-32bca65f-90c4-4276-ba68-d9a17b2f6c95.mp4" width="50%"></video>
 
      
