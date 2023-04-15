@@ -1,18 +1,17 @@
 <img src="https://user-images.githubusercontent.com/114678399/228972961-b6eb4e9b-d027-4082-94a9-d71d17442c24.png" alt="banner">
 
 
-:sparkles: Hi there 👋 My name is Vladimir. Welcome to my github profile! :sparkles:
+<h2> :sparkles: Hi there 👋 My name is Vladimir. Welcome to my github profile! :sparkles:</h2>
+
 - 🔭 I’m currently working on a new responsive e-commerce website
 - 🌱 I’m currently learning about relational databases - Bash scripting, SQL, PostgreSQL, Git etc.
 - 👯 I’m looking to collaborate on front-end projects
 
 <br>
 <div display="inline">
-     <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="300px" alt="Coding"> 
- 
-  <p>:bell: Get ready to build your dream website from scratch! Every week I will publish a new website template which can serve as a practical lesson on front-end web development. You'll learn how to use HTML, CSS, and JavaScript to create visually stunning and interactive websites, with an accent on e-Commerce websites. With hands-on examples and included guidance, you will be able to turn your ideas into a reality. Everyone who likes the process of learning by doing is welcome. Of course, I will be a learner too on that path of acquiring new practical skills. Together, we can become the better front-end developers!</p>
- 
- </div>
+     <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="300px" alt="Coding"><hr>
+     <p>:bell: Get ready to build your dream website from scratch! Every week I will publish a new website template which can serve as a practical lesson on front-end web development. You'll learn how to use HTML, CSS, and JavaScript to create visually stunning and interactive websites, with an accent on e-Commerce websites. With hands-on examples and included guidance, you will be able to turn your ideas into a reality. Everyone who likes the process of learning by doing is welcome. Of course, I will be a learner too on that path of acquiring new practical skills. Together, we can become the better front-end developers!</p><hr>
+</div>
 
 
 <h3>:one: Connect with me :sparkles:</h3>
