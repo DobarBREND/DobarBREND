@@ -14,7 +14,7 @@
  
  </div>
 
-<br>
+
 <h3>:one: Connect with me :sparkles:</h3>
 <div display="inline">
   <a href="https://www.linkedin.com/in/dobarbrend/" target="_blank"><img src="https://user-images.githubusercontent.com/114678399/228941213-dc816222-125a-40c8-aab9-f19dbd4d8a5b.png" alt="LinkedIn" width="30px"></a>
@@ -41,7 +41,7 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobarBREND&repo=e-commerce-website&theme=dark" height="140">
 </div>
 
-<br><br>
+<br>
 <h3>:six: WELCOME video :sparkles:</h3>
 <video src="https://user-images.githubusercontent.com/114678399/228936520-32bca65f-90c4-4276-ba68-d9a17b2f6c95.mp4" width="50%"></video>
 
